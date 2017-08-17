@@ -231,6 +231,7 @@ span.redText {
 
 .twitter-hashtag-button {
     margin-left: 10px;
+    margin-top: 12px;
 }
 
 .navbar-btn {
@@ -272,6 +273,7 @@ span.redText {
 .lgbt-button, .spanish-button {
     padding: 3px !important;
     margin-left: 10px !important;
+    display: none !important;
 }
 
 /* Modal Styles */
